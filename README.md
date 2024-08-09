@@ -1,6 +1,6 @@
 # Streamlit Graph Template
 
-####### For internal use with CTEC reports
+**_For internal use with CTEC reports_**
 
 ### Usage
 
