@@ -19,3 +19,5 @@ if __name__ == "__main__":
         current_date = date.today()
         st.write(f"Today's Date: {current_date.strftime('%m/%d/%Y')}")
         st.write(f"Delivered On: {delivered_date.strftime('%m/%d/%Y')}")
+
+    st.markdown("***INSERT INFO HERE***")
