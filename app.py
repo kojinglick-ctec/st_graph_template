@@ -7,6 +7,9 @@ DELIVERY_DATE = date(2024, 1, 1)
 
 
 if __name__ == "__main__":
+    # Page Configuration
+    st.set_page_config(layout="wide", page_title=REPORT_TITLE)
+
     with st.sidebar:
 
         # Sidebar Header
