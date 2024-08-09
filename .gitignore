@@ -1,0 +1,13 @@
+# env
+env/
+
+# sourcing data should be private
+private-data/
+private_data/
+tmp/
+
+src/gen_data.py
+
+# secrets
+.env
+.streamlit/secrets.toml
