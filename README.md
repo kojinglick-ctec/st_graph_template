@@ -24,4 +24,5 @@
    ```
 
 4. Install dependencies. `pip install -r requirements.txt`
-5. Happy Dashboarding!
+5. Run Streamlit. `streamlit run app.py`
+6. Happy Dashboarding!
