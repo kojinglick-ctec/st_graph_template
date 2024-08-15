@@ -7,7 +7,7 @@
 1. Clone this repository.
    `git clone https://github.com/kojinglick-ctec/st_graph_template`
 2. Change to new directory. `cd st_graph_template`
-3. Create and virtual environment.
+3. Create and activate a virtual environment.
 
    a. MacOS or Linux:
 
